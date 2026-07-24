@@ -71,5 +71,5 @@ void loop() {
   delay(1000);
 }
 🔗 Live Simulation & Interactive Demo
-👉 Click Here to Test Circuit on Tinkercad
+👉 Click Here to Test Circuit on Tinkercad(https://www.tinkercad.com/things/lW3HJHWpShT-tremendous-curcan-hango/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=wwjTgwJ5bForTtMm6dIJqSt_0_EreoQGeNKF-ei7_Z8)
 📸 Circuit Layout
